@@ -15,7 +15,7 @@ while(t>0):
                         continue
                     else:
                         r=0
-                        break
+                        break                   #Reduce the Running time
                 if(r==1):
                     cont+=1
     print("Case #{}: {}".format(x,cont))      #format printing
