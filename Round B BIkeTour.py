@@ -1,5 +1,5 @@
 t=int(input())
-x=1
+x=1          #For Printing Purpose only
 while(t>0):
     c=0
     t-=1
@@ -13,7 +13,7 @@ while(t>0):
         print("Case #{}: 0".format(x))
         x+=1
 
-    elif(p[0]==o or p[0]==l):
+    elif(p[0]==o or p[0]==l): 
         
         print("Case #{}: 0".format(x))
         
