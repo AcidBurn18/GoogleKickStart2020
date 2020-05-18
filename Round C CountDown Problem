@@ -23,7 +23,7 @@ Memory limit: 1GB.
 1 ≤ Ai ≤ 2 × 105, for all i.
 Test set 1
 
-2 ≤ N ≤ 1000.
+2 ≤ N ≤ 1000
 Test set 2
 
 2 ≤ N ≤ 2 × 105 for at most 10 test cases.
